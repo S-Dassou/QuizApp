@@ -8,6 +8,6 @@ Quiz App's documentation can be found in Xcode. To view documenation, clone the 
 
 ## License
 
-Quiz App is released under the MIT license.
+Quiz App is released under the MIT license. [See license](https://github.com/S-Dassou/QuizApp/blob/main/LICENSE.md) for details.
 
 ![Screenshot](https://github.com/S-Dassou/QuizApp/blob/main/screenshot1.png)
