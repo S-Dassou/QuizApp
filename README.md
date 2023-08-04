@@ -1,6 +1,7 @@
 # Quiz App
 
 This is an iOS app built with Swift and UIKit. QuizApp shows an image of an animal and asks the user to select a corresponding name. At the end of the quiz, the user gets a score.
+The app is configured to work on iPad, iPhone landscape, and iPhone portrait.  
 
 ## Documentation
 
