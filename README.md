@@ -11,4 +11,11 @@ Quiz App's documentation can be found in Xcode. To view documenation, clone the 
 
 Quiz App is released under the MIT license. [See license](https://github.com/S-Dassou/QuizApp/blob/main/LICENSE.md) for details.
 
+### iPhone Portrait
 ![Screenshot](https://github.com/S-Dassou/QuizApp/blob/main/screenshot1.png)
+
+### iPad
+![Screenshot](https://github.com/S-Dassou/QuizApp/blob/main/iPadScreenshot.png)
+
+### iPhone Landscape
+![Screenshot](https://github.com/S-Dassou/QuizApp/blob/main/iPhoneLandscape.png)
